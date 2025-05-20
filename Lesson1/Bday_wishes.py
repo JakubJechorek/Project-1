@@ -9,4 +9,4 @@ sender_name = input("Enter Senders Name: ")
 current_year = 2025
 age = current_year - year_of_birth
 
-print(f"{recipient_name}, let's celebrate your {age} years of awesomeness!\nWishing you a day filled with joy and laughter as you turn {age}!\n{personal_message}\n{sender_name}")
+print(f"{recipient_name}, let's celebrate your {age} years of awesomeness!\nWishing you a day filled with joy and laughter as you turn {age}!\n\n{personal_message}\n\n{sender_name}")
